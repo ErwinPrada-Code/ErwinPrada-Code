@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a href="https://github.com/TU_USUARIO">Erwin</a></b>.
+    Hello there! I'm <b><a href="https://github.com/ErwinPrada-Code">Erwin</a></b>.
     <br>I'm a Systems Engineering student from Colombia.<br>
   </samp>
 </p>
@@ -15,9 +15,42 @@
 <h3><samp>Learning</samp></h3>
 <ul>
   <li><samp>TensorFlow</samp></li>
+  <li><samp>Machine Learning (Andrew Ng's ML Specialization)</samp></li>
+</ul>
+
+<h3><samp>Hobbies</samp></h3>
+<ul>
+  <li><samp>Self-hosting and homelab</samp></li>
+  <li><samp>Customizing my Linux setup</samp></li>
+  <li><samp>Automating things with AI (n8n, Open WebUI)</samp></li>
 </ul>
 
 <br clear="all">
+
+<h1><samp>Featured Projects</samp></h1>
+
+<ul>
+  <li>
+    <samp>
+      <b><a href="https://github.com/ErwinPrada-Code/second-brain">Segunda Memoria (second-brain)</a></b><br>
+      Notes app with semantic search: save notes and ideas, then find them by meaning using natural language. Built with FastAPI, ChromaDB and sentence-transformers, and self-hosted on my own server through a Cloudflare Tunnel.
+    </samp>
+  </li>
+  <br>
+  <li>
+    <samp>
+      <b><a href="https://github.com/ErwinPrada-Code/asistente-archivos-ia">AI File Assistant</a></b><br>
+      Upload PDFs and other files and chat about their content. Built from scratch with Python, Streamlit and the Groq API (LLaMA 3.1), with conversation memory.
+    </samp>
+  </li>
+  <br>
+  <li>
+    <samp>
+      <b><a href="https://github.com/Erwin-Prada/BegiAI">BegiAI</a></b><br>
+      Fruit classifier that recognizes 3 types of fruit. Built with 3 classmates for my university's AI fair.
+    </samp>
+  </li>
+</ul>
 
 <h1><samp>Languages &amp; Tools</samp></h1>
 
@@ -27,4 +60,11 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
+<h1><samp>Contact</samp></h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/erwin-prada-b06b16364/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/ErwinPrada-Code"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
